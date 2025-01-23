@@ -1,4 +1,4 @@
-# Note App
+🗒️Note App
 
 **Note App** is a simple and efficient note-taking application built with **React**. It allows users to add, edit, and delete notes while storing them locally using **localStorage** for persistent storage. The app is designed with responsiveness in mind, making it compatible across various devices like mobile, tablets, and desktops.
 
@@ -30,3 +30,4 @@ Notes will persist across sessions, even after the browser is closed and reopene
 
 
 📷Screenshots
+<img width="1677" alt="Screenshot 2025-01-23 at 11 47 59 PM" src="https://github.com/user-attachments/assets/a5539c0d-9519-444f-9d8c-06080027460e" />
